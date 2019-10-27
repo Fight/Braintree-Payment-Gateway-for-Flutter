@@ -15,10 +15,7 @@ A new flutter plugin project.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'BraintreeDropIn'
-  s.dependency 'Braintree/PayPal'
-  s.dependency 'Braintree/Apple-Pay'
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '8.0'
   s.static_framework = true
 end
 

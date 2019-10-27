@@ -1,0 +1,22 @@
+PODS:
+  - braintree_payment (1.0.2):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - braintree_payment (from `.symlinks/plugins/braintree_payment/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+EXTERNAL SOURCES:
+  braintree_payment:
+    :path: ".symlinks/plugins/braintree_payment/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  braintree_payment: 3028089415502fb493f34a49b38aa1b1288cda10
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 7fb83752f59ead6285236625b82473f90b1cb932
+
+COCOAPODS: 1.8.4
